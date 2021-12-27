@@ -1,0 +1,48 @@
+body {
+    background-color:dimgray
+}
+
+div {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-family: fantasy;
+}
+    
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+nav li {
+    float:left;
+  }
+  
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 50px;
+    text-decoration: none;
+    font-style: italic;
+    font-size: 20px;
+  }
+
+nav li a:hover {
+    background-color: #111;
+  }
+
+nav .active {
+    background-color: #4CAF50;
+  }
+
+#content{
+    background-color: blanchedalmond;
+    text-align: center;
+    font-size: large;
+
+}

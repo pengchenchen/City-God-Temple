@@ -1,19 +1,25 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 title: City God Temple
 layout: index
 ---
 
-Hello world!
-
-<div id=images>
-
-<p><img scr="" width=650px></p>
-
+<div id="introduction">
+  <p>
+  </p>
 </div>
 
-<div>
+<table id=pictures>
 
-</div>
+  <ul>
+    <img scr="" width=220px height=220px>
+    <img scr="" width=220px height=220px>
+    <img scr="" width=220px height=220px>
+    <img scr="" width=220px height=220px>
+    <br>
+    <img scr="" width=220px height=220px>
+    <img scr="" width=220px height=220px>
+    <img scr="" width=220px height=220px>
+    <img scr="" width=220px height=220px>
+  </ul>
+
+</table>

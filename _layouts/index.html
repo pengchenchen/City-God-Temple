@@ -1,0 +1,39 @@
+---
+---
+
+<head>
+    <mata charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href=" ../styles.css">
+</head>
+
+<body>
+    <div id="wrapper">
+      <div class="header">
+          City God Temple
+      </div>
+
+      <div id="head-image">
+          <img src="../_exhibits/foshan.Main-image-url" alt="Welcome" width=1080px height=200px>
+      </div>
+
+      <div id="index">
+          <nav>
+              <a href="{{ site.baseurl }}/"> Main page </a>
+              <a href="{{ site.baseurl }}/Gallery"> Gallery </a>
+              <a href="{{ site.baseurl }}/Search"> Search </a>
+              <a href="{{ site.baseurl }}/about"> About Us </a>      
+          </nav>
+      </div>
+
+      <div id="content">
+          {{content}}
+      </div>
+        
+      </div id="footer">
+          <p>Created with <a href = "https://jekyllrb.com/">jekyll</a> for assessment by Team 5 in 2021</p>
+      </div>
+
+    </div>
+ 
+</body>

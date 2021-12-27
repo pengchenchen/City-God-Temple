@@ -1,0 +1,14 @@
+---
+---
+[
+  {% for exhibits in site.exhibits %}
+    {
+
+      "title"    : "{{ exhibits.title }}",
+      "url"      : "{{ site.baseurl }}{{ exhibits.url }}",
+      "site"     : "{{exhibits.site | join: ', '}}",
+      "discription" : "{{exhibits.description | strip_html | strip_newlines | escape }}"
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

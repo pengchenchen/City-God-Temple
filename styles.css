@@ -42,7 +42,17 @@ nav .active {
 
 #content{
     background-color: blanchedalmond;
-    text-align: center;
-    font-size: large;
+}
 
+#exhibit{
+  margin: auto;
+  display: grid;
+  grid-gap: 10px;
+  font-size: 10px;
+  grid-template-columns: repeat(4, 275px); 
+}
+
+#grid_cell {
+  align-self: baseline;
+  text-align: left;
 }

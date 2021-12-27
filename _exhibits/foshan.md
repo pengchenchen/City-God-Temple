@@ -1,13 +1,16 @@
 ---
-Title: City God Temple in Haifeng County, Guangdong Province
-Introduction: Located in Haifeng County, Shanwei City, Guangdong Province, it was built during the Hongwu period of the Ming Dynasty. The present site is located at the Zhongshan Road entrance of Haifeng County, Shanwei City, which was damaged during the Cultural Revolution. It is said that the temple was built in the counties to commemorate an upright and loyal protector of the city who served as a county in the Central Plains in ancient times.
-Time: From 1370 to now
-site: Zhongshan Road Exit, Haifeng County, Shanwei City
-Story: According to the legend, in ancient times, a protector of a county in the Central Plains was a straightforward and loyal person who dared to fight ruthlessly against evil winds. After his hard work, he turned this poor county, where corrupt officials were in line, theft was rampant, people were disorganized, and people's life was difficult, into a rich county with clean government and honesty, where people lived in peace and happiness. Unfortunately, good people don't live long, this supervisor due to overworked, sick in the body, unfortunately died at a young age. The people to promote his achievements, he will be beneficial to the people's case, one by one to the court. The emperor remembered his merits to the masses, so the prick order to seal him as "City God master". Later people to commemorate this upright and clean official, where there is a city, must build the ancestral temple of the city god to worship.
-Index_image_url: https://bkimg.cdn.bcebos.com/pic/09fa513d269759ee5661eb33b8fb43166d22df11?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto
-Other-image-url-1: https://bkimg.cdn.bcebos.com/pic/ac6eddc451da81cbb388fade5166d016092431b2?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg
-Other-image-url-2: https://img2.baidu.com/it/u=3766535556,345057615&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=375
-Other-image-url-3: https://img1.baidu.com/it/u=91683067,1392096760&fm=26&fmt=auto
+Title: Shiban City God Temple in Foshan, Guangdong Province
+Introduction:Located in Haifeng County, Shanwei City, Guangdong Province, it was built during the Hongwu period of the Ming Dynasty. The present site is located at the Zhongshan Road entrance of Haifeng County, Shanwei City, which was damaged during the Cultural Revolution. It is said that the temple was built in the counties to commemorate an upright and loyal protector of the city who served as a county in the Central Plains in ancient times.
+Time: Song Dynasty (960—1279)
+site: Lunjiao, Shunde, Foshan, Guangdong
+Story: Legend has it that Shi Ban was originally a small island, with rivers and gorges running through it, and traffic was mainly transported by small boats. One year, Shi Ban of the plague, the villagers from Jizhou invited the city god, a few big men carrying the city god village parade, praying to the city god for Shi version of the villagers to avoid evil and drive away ghosts, to eliminate the epidemic. A few big men carrying tired, when put down the City God village side to cool off, the City God does not want to get up, intended to settle in this. So, Shi Ban of the villagers to raise funds to build a city god temple, dedicated to the city god, and the annual lunar calendar April 13 as the city god birthday.
+It is said that at that time, someone in order to benefit from the grace of the City God to all people, so engraved two large seal, a jade seal, a bronze seal, people have their clothes to the temple to cover the seal, in order to pray for peace and goodwill.
+Index_image_url: https://bkimg.cdn.bcebos.com/pic/f636afc379310a55d20b64babd4543a982261054?x-bce-process=image/resize,m_lfit,w_235,h_235,limit_1/format,f_auto
+Other-image-url-1: https://bkimg.cdn.bcebos.com/pic/83025aafa40f4bfbaa340ab6034f78f0f636186f?x-bce-process=image/resize,m_lfit,w_440,limit_1/format,f_auto
+Other-image-url-2: https://bkimg.cdn.bcebos.com/pic/2cf5e0fe9925bc31a442967a5edf8db1cb137031?x-bce-process=image/resize,m_lfit,w_440,limit_1/format,f_auto
+Other-image-url-3: 
+Other-image-url-4: 
+Other-image-url-5: 
 License:
 License-url:
 ---

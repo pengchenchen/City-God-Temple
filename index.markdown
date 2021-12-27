@@ -10,16 +10,16 @@ layout: index
 
 <table id=pictures>
 
-  <ul>
-    <img scr="" width=220px height=220px>
-    <img scr="" width=220px height=220px>
-    <img scr="" width=220px height=220px>
-    <img scr="" width=220px height=220px>
-    <br>
-    <img scr="" width=220px height=220px>
-    <img scr="" width=220px height=220px>
-    <img scr="" width=220px height=220px>
-    <img scr="" width=220px height=220px>
-  </ul>
+  <div id=exhibit>
+  {% for exhibit in site.exhibits %}
+  <div id = "grid_cell">
+    <img src="{{ exhibit.Index_image_url }}" width=200px height=200px>
+    <p> {{ exhibit.Title }} </p>
+ </div>
+
+{% endfor %}
+
+</div>
+
 
 </table>

@@ -1,4 +1,5 @@
 ---
+layout: exhibit
 Title: City God Temple in Haifeng County, Guangdong Province
 Introduction: Located in Haifeng County, Shanwei City, Guangdong Province, it was built during the Hongwu period of the Ming Dynasty. The present site is located at the Zhongshan Road entrance of Haifeng County, Shanwei City, which was damaged during the Cultural Revolution. It is said that the temple was built in the counties to commemorate an upright and loyal protector of the city who served as a county in the Central Plains in ancient times.
 Time: From 1370 to now

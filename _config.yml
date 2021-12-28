@@ -31,9 +31,9 @@ url: "https://CityGodTemple-Gallery.netlify.app/" # the base hostname & protocol
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
+  
 collections:
-  exhibits:
+   exhibits:
     output: true
   
 # Exclude from processing.

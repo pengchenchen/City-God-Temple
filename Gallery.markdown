@@ -1,6 +1,6 @@
 ---
 title: Gallery
-layout: index
+layout: Gallery
 ---
 
 <div id=exhibit>

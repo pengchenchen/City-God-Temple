@@ -24,11 +24,15 @@
      </ul>   
   </nav>
 
-      
   <hr>
 
   <div id="content">
-        {{content}}
+        <img src="{{ exhibit.Index_image_url }}" width=200px height=200px>
+        <p> {{ page.Title }} </p>
+        <p> Time: {{ page.Time }} </p> <p> Site: {{ page.site }}  </p>
+        <p> {{ page.Introduction }} </p>
+        <p> Story <br> {{ page.Story }} <br> </p>
+     </div>
   </div>
 
   <hr>

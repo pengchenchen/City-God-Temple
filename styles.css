@@ -1,47 +1,62 @@
 body {
-    background-color:dimgray
+  background-image:url('https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01240b556885de0000009fcb2329db.jpg&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1643274614&t=15d83ee1a057746e6c9d6df8eb458e31');
+  background-repeat:initial;
+  background-position: left top;
+  background-size: auto;
+  margin-right:450px;
+  margin-left: 50px;
+  font-family:Arial, Helvetica, sans-serif;
+  background-color: rgb(32, 19, 2);
 }
 
 div {
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    font-family: fantasy;
+  padding-top: 20px;
+  padding-right: 40px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  font-family: fantasy;
+}
+
+h1 { 
+  font-family:Arial, Helvetica, sans-serif;
+  font-stretch: expanded;
+  font-weight: bold;
+  margin: 20px;
+  color: white;
 }
     
 nav ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-  }
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:peru;
+}
   
 nav li {
-    float:left;
-  }
+  float:left;
+ }
   
 nav li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 10px 50px;
-    text-decoration: none;
-    font-style: italic;
-    font-size: 20px;
-  }
+  display: block;
+  color: rgb(20, 18, 18);
+  text-align: center;
+  padding: 14px 16px;    
+  text-decoration: none;
+  font-style: italic;
+  font-size: 20px;
+}
 
 nav li a:hover {
-    background-color: #111;
-  }
+  background-color: #ddd;
+}
 
 nav .active {
-    background-color: #4CAF50;
-  }
+  background-color: darkkhaki;
+}
 
 #content{
-    background-color: blanchedalmond;
+  background-color: rgb(247, 186, 111);
 }
 
 #exhibit{
@@ -55,4 +70,8 @@ nav .active {
 #grid_cell {
   align-self: baseline;
   text-align: left;
+}
+
+#footer {
+  color:#ddd
 }

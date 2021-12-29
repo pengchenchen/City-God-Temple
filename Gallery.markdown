@@ -8,11 +8,9 @@ layout: Gallery
 {% for exhibit in site.exhibits %}
 
   <div id = "grid_cell">
-    <img src="{{ exhibit.Index_image_url }}" width=200px height=200px>
-    <p> {{ exhibit.Title }} </p>
-    <p> Time: {{ exhibit.Time }} </p> <p> Site: {{ exhibit.site }}  </p>
-    <p> {{ exhibit.Introduction }} </p>
-    <p> Story <br> {{ exhibit.Story }} <br> </p>
+    <a href = "{{ exhibit.url | relative_url }}"><img src="{{ exhibit.index_image_url }}" alt="{{ exhibit.introduction }}" width=200px height=200px></a>
+    <a href = "{{ exhibit.url | relative_url }}"><p> {{ exhibit.name }} </p></a>
+    <p> Time: {{ exhibit.time }} </p> 
  </div>
 
 {% endfor %}

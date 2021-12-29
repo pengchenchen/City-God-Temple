@@ -1,15 +1,10 @@
 ---
 ---
 [
-  {% for exhibits in site.exhibits %}
+  {% for exhibit in site.exhibits %}
     {
 
-      "title"    : "{{ exhibit.title | strip_html | escape }}}",
-      "url"      : "{{ site.baseurl }}{{ exhibit.url }}",
-      "introduction"  : "{{ exhibit.introduction | strip_html | strip_newlines | escape }}",
-      "time"     : "{{ exhibit.time }}",
-      "site"     : "{{ exhibit.site | join: ', '}}",
-      "story"    : "{{ exhibit.story | strip_html | strip_newlines | escape }}"
+      "title"   : "{{ exhibit.name | strip_html | escape }}"
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}

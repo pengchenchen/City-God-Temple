@@ -11,7 +11,6 @@ layout: Gallery
     <a href = "{{ exhibit.url | relative_url }}"><img src="{{ exhibit.index_image_url }}" alt="{{ exhibit.introduction }}" width=200px height=200px></a>
     <a href = "{{ exhibit.url | relative_url }}"><p> {{ exhibit.name }} </p></a>
     <p> Build Time: {{ exhibit.time }} </p> 
-    <hr color=black>
  </div>
 
 {% endfor %}

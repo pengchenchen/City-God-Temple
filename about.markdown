@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a humanities website for City God Temple. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We are students in <a href="http://KCL.ac.uk">King's College London</a>.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Creators: 
+<br>
+<a href="mailto:http://Yingxuan.Chen@kcl.ac.uk">Chen Yingxuan</a>
+<br>
+<a href="mailto:http://Xinxuan.Wu@kcl.ac.uk">Wu xinxuan</a>
+<br>
+<a href="mailto:http://Chenchen.Peng@kcl.ac.uk">Peng chenchen</a>
 
-
-[jekyll-organization]: https://github.com/jekyll
+Sincerely thank Prof. Daniel Allington and Dr. Nilo Pedrazzini for conduction.

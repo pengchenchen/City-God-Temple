@@ -1,6 +1,6 @@
 ---
 layout: index
-title: index
+title: About
 permalink: /about/
 ---
 

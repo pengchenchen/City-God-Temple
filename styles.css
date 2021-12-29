@@ -1,10 +1,10 @@
 body {
   background-image:url('https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F01240b556885de0000009fcb2329db.jpg&refer=http%3A%2F%2Fimg.zcool.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1643274614&t=15d83ee1a057746e6c9d6df8eb458e31');
-  background-repeat:initial;
-  background-position: left top;
+  background-repeat:inherit;
+  background-position: center top;
   background-size: width 1002px;
-  margin-right: 400px;
-  margin-left: 50px;
+  margin-right: 30%;
+  margin-left: 5%;
   font-family:Arial, Helvetica, sans-serif;
 }
 

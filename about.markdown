@@ -16,4 +16,4 @@ Creators:
 <br>
 <a href="mailto:http://Chenchen.Peng@kcl.ac.uk">Peng chenchen</a>
 
-Sincerely thank Prof. Daniel Allington and Dr. Nilo Pedrazzini for conduction.
+Sincerely appreciate Prof. Daniel Allington and Dr Nilo Pedrazzini for conduction.
